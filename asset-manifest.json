@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/salaryslip/static/css/main.c51aa449.chunk.css",
+    "main.js": "/salaryslip/static/js/main.43442d43.chunk.js",
+    "main.js.map": "/salaryslip/static/js/main.43442d43.chunk.js.map",
+    "runtime-main.js": "/salaryslip/static/js/runtime-main.c86288db.js",
+    "runtime-main.js.map": "/salaryslip/static/js/runtime-main.c86288db.js.map",
+    "static/js/2.b91bd916.chunk.js": "/salaryslip/static/js/2.b91bd916.chunk.js",
+    "static/js/2.b91bd916.chunk.js.map": "/salaryslip/static/js/2.b91bd916.chunk.js.map",
+    "static/js/3.99989f49.chunk.js": "/salaryslip/static/js/3.99989f49.chunk.js",
+    "static/js/3.99989f49.chunk.js.map": "/salaryslip/static/js/3.99989f49.chunk.js.map",
+    "index.html": "/salaryslip/index.html",
+    "static/css/main.c51aa449.chunk.css.map": "/salaryslip/static/css/main.c51aa449.chunk.css.map",
+    "static/js/2.b91bd916.chunk.js.LICENSE.txt": "/salaryslip/static/js/2.b91bd916.chunk.js.LICENSE.txt",
+    "static/media/edigital_wolf_logo.a4b84cc4.png": "/salaryslip/static/media/edigital_wolf_logo.a4b84cc4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c86288db.js",
+    "static/js/2.b91bd916.chunk.js",
+    "static/css/main.c51aa449.chunk.css",
+    "static/js/main.43442d43.chunk.js"
+  ]
+}
