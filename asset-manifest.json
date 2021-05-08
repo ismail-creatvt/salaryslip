@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/salaryslip/static/css/main.d18192d9.chunk.css",
-    "main.js": "/salaryslip/static/js/main.2c0baafc.chunk.js",
-    "main.js.map": "/salaryslip/static/js/main.2c0baafc.chunk.js.map",
+    "main.js": "/salaryslip/static/js/main.41170914.chunk.js",
+    "main.js.map": "/salaryslip/static/js/main.41170914.chunk.js.map",
     "runtime-main.js": "/salaryslip/static/js/runtime-main.cdcdb3e3.js",
     "runtime-main.js.map": "/salaryslip/static/js/runtime-main.cdcdb3e3.js.map",
     "static/js/2.fe1ed09c.chunk.js": "/salaryslip/static/js/2.fe1ed09c.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.cdcdb3e3.js",
     "static/js/2.fe1ed09c.chunk.js",
     "static/css/main.d18192d9.chunk.css",
-    "static/js/main.2c0baafc.chunk.js"
+    "static/js/main.41170914.chunk.js"
   ]
 }
