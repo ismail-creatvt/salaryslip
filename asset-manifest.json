@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/salaryslip/static/css/main.cef24a68.chunk.css",
-    "main.js": "/salaryslip/static/js/main.166b5464.chunk.js",
-    "main.js.map": "/salaryslip/static/js/main.166b5464.chunk.js.map",
+    "main.js": "/salaryslip/static/js/main.c00e1592.chunk.js",
+    "main.js.map": "/salaryslip/static/js/main.c00e1592.chunk.js.map",
     "runtime-main.js": "/salaryslip/static/js/runtime-main.646f915c.js",
     "runtime-main.js.map": "/salaryslip/static/js/runtime-main.646f915c.js.map",
-    "static/js/2.bfaf9428.chunk.js": "/salaryslip/static/js/2.bfaf9428.chunk.js",
-    "static/js/2.bfaf9428.chunk.js.map": "/salaryslip/static/js/2.bfaf9428.chunk.js.map",
+    "static/js/2.87c1db3d.chunk.js": "/salaryslip/static/js/2.87c1db3d.chunk.js",
+    "static/js/2.87c1db3d.chunk.js.map": "/salaryslip/static/js/2.87c1db3d.chunk.js.map",
     "static/js/3.d5dee67f.chunk.js": "/salaryslip/static/js/3.d5dee67f.chunk.js",
     "static/js/3.d5dee67f.chunk.js.map": "/salaryslip/static/js/3.d5dee67f.chunk.js.map",
     "index.html": "/salaryslip/index.html",
     "static/css/main.cef24a68.chunk.css.map": "/salaryslip/static/css/main.cef24a68.chunk.css.map",
-    "static/js/2.bfaf9428.chunk.js.LICENSE.txt": "/salaryslip/static/js/2.bfaf9428.chunk.js.LICENSE.txt",
+    "static/js/2.87c1db3d.chunk.js.LICENSE.txt": "/salaryslip/static/js/2.87c1db3d.chunk.js.LICENSE.txt",
     "static/media/edigital_wolf_logo.a4b84cc4.png": "/salaryslip/static/media/edigital_wolf_logo.a4b84cc4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.646f915c.js",
-    "static/js/2.bfaf9428.chunk.js",
+    "static/js/2.87c1db3d.chunk.js",
     "static/css/main.cef24a68.chunk.css",
-    "static/js/main.166b5464.chunk.js"
+    "static/js/main.c00e1592.chunk.js"
   ]
 }
