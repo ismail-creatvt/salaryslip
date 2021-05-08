@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/salaryslip/static/css/main.2a7c264d.chunk.css",
-    "main.js": "/salaryslip/static/js/main.ce81dc02.chunk.js",
-    "main.js.map": "/salaryslip/static/js/main.ce81dc02.chunk.js.map",
+    "main.css": "/salaryslip/static/css/main.cef24a68.chunk.css",
+    "main.js": "/salaryslip/static/js/main.870f02dc.chunk.js",
+    "main.js.map": "/salaryslip/static/js/main.870f02dc.chunk.js.map",
     "runtime-main.js": "/salaryslip/static/js/runtime-main.37246759.js",
     "runtime-main.js.map": "/salaryslip/static/js/runtime-main.37246759.js.map",
     "static/js/2.9209c0ba.chunk.js": "/salaryslip/static/js/2.9209c0ba.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.901e64c0.chunk.js": "/salaryslip/static/js/3.901e64c0.chunk.js",
     "static/js/3.901e64c0.chunk.js.map": "/salaryslip/static/js/3.901e64c0.chunk.js.map",
     "index.html": "/salaryslip/index.html",
-    "static/css/main.2a7c264d.chunk.css.map": "/salaryslip/static/css/main.2a7c264d.chunk.css.map",
+    "static/css/main.cef24a68.chunk.css.map": "/salaryslip/static/css/main.cef24a68.chunk.css.map",
     "static/js/2.9209c0ba.chunk.js.LICENSE.txt": "/salaryslip/static/js/2.9209c0ba.chunk.js.LICENSE.txt",
     "static/media/edigital_wolf_logo.a4b84cc4.png": "/salaryslip/static/media/edigital_wolf_logo.a4b84cc4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.37246759.js",
     "static/js/2.9209c0ba.chunk.js",
-    "static/css/main.2a7c264d.chunk.css",
-    "static/js/main.ce81dc02.chunk.js"
+    "static/css/main.cef24a68.chunk.css",
+    "static/js/main.870f02dc.chunk.js"
   ]
 }
